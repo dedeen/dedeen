@@ -1,5 +1,6 @@
-- 👋 Dan Edeen
-- 👀 Interests include AWS, Azure, Terraform, CloudFormation, virtualized Network Appliances, Palo Alto Networks NGFW
+- Dan Edeen
+- Interests include AWS, Azure, Terraform, CloudFormation, virtualized Network Appliances, Palo Alto Networks NGFW
+- Actively seeking employment as of December 2022
 - 📫 dan@dsblue.net
 
 <!---
